@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3500&pause=100&color=FFFFFF&width=435&lines=Hi%2C+I'm+Filip;I'm+Frontend+Developer)](https://git.io/typing-svg)
+[![Typing SVG](?font=Fira+Code&size=30&duration=3500&pause=100&color=FFFFFF&width=435&lines=Hi%2C+I'm+Filip;I'm+Frontend+Developer)](https://git.io/typing-svg)
 # 💫 About Me:
 🔭 I’m currently working on something interesting<br>🌱 I’m currently learning HTML, CSS, SCSS and JavaScript<br>
 
@@ -15,5 +15,3 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ciesielski-filip&icon=2&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
