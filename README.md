@@ -17,4 +17,4 @@
 [![](https://visitcount.itsvg.in/api?id=ciesielski-filip&icon=2&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
- <a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=YulietM&theme=react&line_height=40&hide=css"/> </a>
+<a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ciesielski-filip&theme=tokyonight&line_height=40&hide=css"/> </a>
