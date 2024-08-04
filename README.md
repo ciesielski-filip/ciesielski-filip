@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=8044FF&width=435&lines=Hi%2C+I'm+Filip)](https://git.io/typing-svg)
 # 💫 About Me:
-🔭 I’m currently working on something interesting<br>🌱 I’m currently learning HTML, CSS, SCSS and JavaScript
+🌱 I’m currently learning HTML, CSS, SCSS and JavaScript
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/ciesielskii_filip/) 
 # 💻 Tech Stack:
